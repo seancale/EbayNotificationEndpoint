@@ -1,0 +1,8 @@
+*.md
+.git
+Dockerfile
+docker-compose.yml
+.gitlab-ci.yml
+recreate-ebay.sh
+.vscode
+sql/
